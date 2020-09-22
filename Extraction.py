@@ -5,7 +5,6 @@ import numpy as np
 import math
 import argparse
 
-
 # this folder is used to save the image
 temp_folder = 'C:\\Users\\PC\\Desktop\\temp\\'
 
